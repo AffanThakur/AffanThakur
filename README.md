@@ -1,41 +1,57 @@
-<div align="center">
+<h1 align="center">Hi, I'm Affan 👋</h1>
 
-Hi, I'm Affan 👋
-
-MSc Mechatronics Engineer · PLC & Industrial Automation · Aspiring Controls Engineer
-
+<p align="center">
+<b>Graduate Mechatronics, Automation & Controls Engineer</b><br>
+MSc Mechatronics & Computer Systems Engineering (Distinction), University of East London<br>
 📍 London, UK
+</p>
 
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/affanthakur"><img src="https://img.shields.io/badge/LinkedIn-affanthakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-🔧 About me
+---
 
-I design and simulate automated systems, from PLC logic to control loops. I enjoy turning real industrial problems (safety, fault handling, throughput) into clean, testable control code.
+## 👨‍💻 About me
 
-	•	🎓 MSc Mechatronics Engineering graduate
-	•	⚙️ Focused on PLC programming and industrial automation
-	•	🐍 Using Python for data, simulation and tooling
-	•	🎯 Looking for Controls / Automation Engineer roles
+I'm an automation and controls engineer with 15 months of production engineering experience in HVAC and refrigeration manufacturing. I build PLC control logic and simulations, and my MSc dissertation was on safety-aware path planning. I'm seeking a **graduate or trainee role in automation, controls, mechatronics or test engineering.**
 
-🛠️ Skills
+## 🛠️ Skills
 
-Edit this list to match what you actually use (e.g. Siemens TIA Portal, Allen-Bradley, SCADA/HMI, C/C++, PID tuning).
+![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-1f6feb?style=flat-square)
+![OpenPLC](https://img.shields.io/badge/OpenPLC-2ea043?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
+![Revit](https://img.shields.io/badge/Revit-186BFF?style=flat-square&logo=autodesk&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-🚀 Featured project
+- **PLC & Controls:** Ladder Logic, motor start/stop and seal-in logic, interlocks, fault latching and reset, counters
+- **Programming:** Python, SQL, A* path planning, simulation, machine vision concepts
+- **CAD:** AutoCAD and Autodesk Revit (certified)
+- **Manufacturing:** production planning, inventory control, quality and safety compliance
 
-Automated Conveyor Control (PLC)
+## 🚀 Projects
 
-OpenPLC-based conveyor simulation with motor start/stop, overload protection, fault reset, product counting and batch control.
+### [Automated Conveyor Control System](https://github.com/AffanThakur/Automated-Conveyor-Control-PLC)
+PLC conveyor simulation in OpenPLC (Ladder Logic) with motor start/stop, seal-in logic, interlocks, overload protection, fault reset, and automatic batch shutdown at 10 products. Verified with 14 documented simulation checks.
 
-🎯 Currently
+### MSc Dissertation: Safety-Aware Path Planning
+Simulated 360° sensing with a seven-camera model and built safety-weighted A* planning with dynamic re-planning. It raised mean minimum obstacle clearance from 0.149 m to 0.303 m (a 103% improvement) with a 100% goal completion rate in the main synthetic-sensing simulations.
 
-	•	🔨 Building more automation and controls projects
-	•	📚 Learning: (add something, e.g. IEC 61131-3 Structured Text, SCADA)
+## 💼 Experience
 
-📫 Let's connect
+**Production Junior Engineer**, SAF Refrigeration Pvt. Ltd. (Oct 2023 – Jan 2025)
+- 10% improvement in production target completion
+- 98% inventory record accuracy
+- Zero reportable safety incidents over 12 months
 
-Open to opportunities in automation and controls engineering. Reach me on LinkedIn.
+## 🎓 Education & Certifications
 
-<div align="center">
+- MSc Mechatronics & Computer Systems Engineering, University of East London (2025–2026), Distinction
+- BE Mechanical Engineering, Anjuman-I-Islam (2021–2023)
+- Autodesk Revit Certified Professional · AutoCAD Certified Professional
 
-</div>
+## 📫 Let's connect
+
+Open to graduate roles in automation and controls. Message me on [LinkedIn](https://www.linkedin.com/in/affanthakur).
